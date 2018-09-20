@@ -1,0 +1,6 @@
+﻿  DS4_Heap_12131588.c
+c:\users\baseb\documents\visual studio 2017\projects\ds4_12131588\ds4_12131588\ds4_heap_12131588.c(189): warning C4101: 'moveData' :참조되지 않은 지역 변수입니다.
+c:\users\baseb\documents\visual studio 2017\projects\ds4_12131588\ds4_12131588\ds4_heap_12131588.c(229): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\baseb\documents\visual studio 2017\projects\ds4_12131588\ds4_12131588\ds4_heap_12131588.c(257): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  DS4_12131588.vcxproj -> C:\Users\baseb\documents\visual studio 2017\Projects\DS4_12131588\Debug\DS4_12131588.exe
+  DS4_12131588.vcxproj -> C:\Users\baseb\documents\visual studio 2017\Projects\DS4_12131588\Debug\DS4_12131588.pdb (Partial PDB)
